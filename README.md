@@ -1,2 +1,2 @@
 # fsrv-dima
-0.0.7-RELEASE
+0.0.8-RELEASE
