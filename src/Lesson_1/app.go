@@ -82,7 +82,7 @@ func main() {
 	//)
 	//
 	//или так:
-	var name1, age = "Dmitrii", 44
+	var name1, age = "Dmitrii", 45
 	fmt.Println(fmt.Sprintf("My name is %s. And i'm %d years old", name1, age))
 
 }
